@@ -1,7 +1,7 @@
 {
   "name": "phactorh",
   "version": "1.0.0",
-  "description": "",
+  "description": "Portfolio",
   "main": "index.html",
   "scripts": {
     "lite": "lite-server",
